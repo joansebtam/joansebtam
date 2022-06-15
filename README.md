@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0antamayo&label=Profile%20views&color=0e75b6&style=flat" alt="j0antamayo" /> </p>
 
-- 🔭 I’m currently working on [Shopping App](https://github.com/J0antamayo/shopping)
+- 🔭 I’m currently working on [Bug Tracker App](https://github.com/J0antamayo/bug-tracker)
 
-- 🌱 I’m currently learning **.NET Core MVC**
+- 🌱 I’m currently learning **.NET Core MVC and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/J0antamayo](https://github.com/J0antamayo)
 
