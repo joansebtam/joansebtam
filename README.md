@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Shopping App](https://github.com/J0antamayo/shopping)
 
-- 🌱 I’m currently learning **.Net Core MVC**
+- 🌱 I’m currently learning **.NET Core MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/J0antamayo](https://github.com/J0antamayo)
 
