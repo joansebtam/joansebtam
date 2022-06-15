@@ -1,5 +1,5 @@
 <h1 align="left">Hello there, I'm Joan Tamayo👋🏼👨🏻‍💻 </h1>
-<h3 align="left">I'm a Systems Engineer from Colombia, who is passionate about Full Stack Web Development. I'm also interested in building innovative tech that helps people and contribute to share the gospel of Jesus Christ. Some technologies I enjoy working are Laravel, React JS and SQL Databases such as MySQL or PostgreSQL, but I still like to learn new technologies.</h3>
+<h3 align="left">I'm a Systems Engineer from Colombia, who is passionate about Full Stack Web Development. I'm also interested in building innovative tech that helps people and contribute to share the gospel of Jesus Christ. I like to learn different kind of technologies, but some technologies I enjoy working are Laravel, React JS and SQL Databases such as MySQL or PostgreSQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0antamayo&label=Profile%20views&color=0e75b6&style=flat" alt="j0antamayo" /> </p>
 
