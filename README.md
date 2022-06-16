@@ -1,6 +1,6 @@
 <h1 align="left">Hello there, I'm Joan 👋🏼👨🏻‍💻 </h1>
 
-[![Portada-GIt-Hub-1.png](https://i.postimg.cc/5yDh2fnW/Portada-GIt-Hub-1.png)](https://postimg.cc/BPcYh9rm)
+[![Portada-GIt-Hub-2.png](https://i.postimg.cc/J7dD5Ssw/Portada-GIt-Hub-2.png)](https://postimg.cc/c6wLs97T)
 
 <h3 align="left">I'm a Systems Engineer from Colombia, who is passionate about Full Stack Web Development. I'm also interested in building innovative tech that helps people and contribute to share the gospel of Jesus Christ. I like to learn different kind of technologies, but some technologies I enjoy working are Laravel, React JS and SQL Databases such as MySQL or PostgreSQL.</h3>
 
