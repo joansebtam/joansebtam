@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0antamayo&label=Profile%20views&color=0e75b6&style=flat" alt="j0antamayo" /> </p>
 
-- 🔭 I’m currently working on [Vehicle Market App](https://github.com/J0antamayo/VehicleMarket)
+- 🔭 I’m currently working on personal project [Vehicle Market App](https://github.com/joantamayodev/VehicleMarket)
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **ASP .NET Core**
 
-- 👨‍💻 All of my projects are available at [https://github.com/J0antamayo](https://github.com/J0antamayo)
+- 👨‍💻 All of my projects are available at [https://github.com/joantamayodev](https://github.com/joantamayodev)
 
-- 📫 How to reach me **jhoantamayo1@gmail.com**
+- 📫 How to reach me **joantamayodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
