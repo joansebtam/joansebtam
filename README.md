@@ -1,6 +1,6 @@
 <h1 align="left">Hello there, I'm Joan 👋🏼👨🏻‍💻 </h1>
 
-![Portada-GIt-Hub-2.png](https://i.postimg.cc/J7dD5Ssw/Portada-GIt-Hub-2.png)
+[![Portada-GIt-Hub-3.jpg](https://i.postimg.cc/Kz08BMDM/Portada-GIt-Hub-3.jpg)](https://postimg.cc/sQZzR18j)
 
 <h3 align="left">I'm a Systems Engineer from Colombia, who is passionate about Full Stack Web Development.</h3>
 
